@@ -24,7 +24,8 @@
     "tests",
     "source",
     "website",
-    "util"
+    "util",
+    "*"
   ],
   "keywords": [
     "timeline"
