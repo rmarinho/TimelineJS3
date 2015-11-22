@@ -1,0 +1,29 @@
+{
+  "name": "Timeline-JS3",
+  "version": "3.3.9",
+  "homepage": "http://timeline.knightlab.com",
+  "authors": [
+    "NUKnightLab(Knightlab@northwestern.edu)"
+  ],
+  "description": "TimelineJS v3: A Storytelling Timeline built in JavaScript http://timeline.knightlab.com ",
+  "main": ["compiled/js/timeline.js","compiled/css/timeline.css"],
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "API.MD",
+    "API_TEST_html",
+    "CHANGELOG",
+    "CONTRIBUTING.md",
+    "DEPLOYNG.MD",
+    "config.codekit",
+    "config.json",
+    "source",
+    "website",
+    "util"
+  ]
+}
