@@ -10,6 +10,10 @@
     "compiled/js/timeline.js",
     "compiled/css/timeline.css"
   ],
+   "repository": {
+    "type": "git",
+    "url": "git://github.com/rmarinho/TimelineJS3"
+  },
   "moduleType": [],
   "license": "MIT",
   "ignore": [
