@@ -18,7 +18,11 @@
   "license": "MIT",
   "ignore": [
     "*",
-    "!*/compiled/"
+    "!*/"
+    "node_modules",
+    "source",
+    "util",
+    "website"
   ],
   "keywords": [
     "timeline"
