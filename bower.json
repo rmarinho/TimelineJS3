@@ -5,8 +5,11 @@
   "authors": [
     "NUKnightLab(Knightlab@northwestern.edu)"
   ],
-  "description": "TimelineJS v3: A Storytelling Timeline built in JavaScript http://timeline.knightlab.com ",
-  "main": ["compiled/js/timeline.js","compiled/css/timeline.css"],
+  "description": "TimelineJS v3: A Storytelling Timeline built in JavaScript http://timeline.knightlab.com",
+  "main": [
+    "compiled/js/timeline.js",
+    "compiled/css/timeline.css"
+  ],
   "moduleType": [],
   "license": "MIT",
   "ignore": [
@@ -18,5 +21,9 @@
     "source",
     "website",
     "util"
-  ]
+  ],
+  "keywords": [
+    "timeline"
+  ],
+  "private": true
 }
