@@ -17,7 +17,7 @@
   "moduleType": [],
   "license": "MIT",
   "ignore": [
-    "*"
+    "*",
     "!*/compiled"
   ],
   "keywords": [
