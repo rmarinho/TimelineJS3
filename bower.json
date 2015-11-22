@@ -17,15 +17,8 @@
   "moduleType": [],
   "license": "MIT",
   "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests",
-    "source",
-    "website",
-    "util",
     "*"
+    "!*/compiled""
   ],
   "keywords": [
     "timeline"
